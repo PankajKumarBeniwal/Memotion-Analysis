@@ -8,3 +8,11 @@ Task A - It reffers to the sentiment analysis of the text and image wheather the
 Task B - This reffers to the 1st level of classification where the meme is classified into diffrent categories (Humour, Offensive, Motivational, Sarcasm)
 #
 Task C - Finally this Task reffers to 2nd level classification where the meme is further classified into sub categories(like in humour subclass(Very funny, not funny, funny, hilarious))
+### Technologies Used
+
+#### Language Used - Pyhon
+#### Pandas Library
+#### Deep Learning Models(CNN For Image(Resnet, VGG16), Bidirectional LSTM for Text )
+#### OpenCV for Image Processing
+#### Tensorflow / Keras
+#### NLP Tools (Word Embedding)
