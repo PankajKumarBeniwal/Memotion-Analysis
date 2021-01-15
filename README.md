@@ -21,3 +21,24 @@ Task C - Finally this Task reffers to 2nd level classification where the meme is
 #### NLP Tools (Word Embedding)
 ### Here is the Model Summarization and model that is implemented
 ![model](https://user-images.githubusercontent.com/63897550/104676749-016cd380-570e-11eb-9cb8-5e985986e777.png)
+
+## Evaluation
+#### Model     #### Resnet50     #### VGG16        #### Resnet50 + VGG16
+#### Task A    #### 0.23952      #### 0.23952      #### 0.23952
+#### Task B    #### 0.42857      #### 0.42857      #### 0.42857
+#### Task C    #### 0.47441      #### 0.47332      #### 0.47461
+Evaluation is done in form of F1 Score
+
+## Comparision
+
+
+
+
+
+
+
+
+
+
+
+
