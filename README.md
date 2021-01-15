@@ -15,7 +15,7 @@ Task C - Finally this Task reffers to 2nd level classification where the meme is
 
 #### Language Used - Pyhon
 #### Pandas Library
-#### Deep Learning Models(CNN For Image(Resnet, VGG16), Bidirectional LSTM for Text )
+#### Deep Learning Models(CNN For Image(Resnet, VGG16), Bidirectional GRU for Text )
 #### OpenCV for Image Processing
 #### Tensorflow / Keras
 #### NLP Tools (Word Embedding)
