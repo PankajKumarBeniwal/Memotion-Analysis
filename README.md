@@ -30,7 +30,7 @@ Task C - Finally this Task reffers to 2nd level classification where the meme is
 Evaluation is done in form of F1 Score
 
 ## Comparision
-
+![eval](https://user-images.githubusercontent.com/63897550/104677599-a9cf6780-570f-11eb-8f99-1f8fa0e8ab58.PNG)
 
 
 
