@@ -1,5 +1,6 @@
-Dataset is taken from kaggle.com
+## Dataset is taken from kaggle.com
 Dataset consist of Images which are memes
 Dataset also consist of CSV file Consisting(Image name, Text Extracted using OCR, Labels, diffrent categories of emotions)
 here is the link of dataset
-kaggle datasets download -d williamscott701/memotion-dataset-7k
+### kaggle datasets download -d williamscott701/memotion-dataset-7k
+for more watch readme file
