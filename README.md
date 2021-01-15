@@ -19,3 +19,5 @@ Task C - Finally this Task reffers to 2nd level classification where the meme is
 #### OpenCV for Image Processing
 #### Tensorflow / Keras
 #### NLP Tools (Word Embedding)
+### Here is the Model Summarization and model that is implemented
+![model](https://user-images.githubusercontent.com/63897550/104676749-016cd380-570e-11eb-9cb8-5e985986e777.png)
