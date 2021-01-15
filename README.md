@@ -2,6 +2,9 @@
 ## Emotion Analysis of memes
 It is the multi-level classification of the emotions of Meme's
 ### Dataset - kaggle datasets download -d williamscott701/memotion-dataset-7k
+#
+Preview of Dataset
+![data](https://user-images.githubusercontent.com/63897550/104676479-78ee3300-570d-11eb-8e47-c489e2aa6c79.PNG)
 ### The Project is divided into three tasks Task A, Task B, Task C
 Task A - It reffers to the sentiment analysis of the text and image wheather the meme is Very Positive, Positive, Neutral, Negetive, Very Negetive
 #
